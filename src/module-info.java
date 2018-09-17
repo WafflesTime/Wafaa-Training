@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Wafaa
+ *
+ */
+module JavaTraining {
+}
